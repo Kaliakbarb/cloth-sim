@@ -4,3 +4,4 @@
 - clean up edge case handling
 - adjust input parsing
 - tighten help text
+- polish state handling
