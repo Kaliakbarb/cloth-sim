@@ -9,3 +9,4 @@
 - simplify naming
 - tighten naming
 - tweak input parsing
+- improve startup flow
