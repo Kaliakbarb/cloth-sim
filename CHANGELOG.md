@@ -6,3 +6,4 @@
 - tighten help text
 - polish state handling
 - adjust config handling
+- simplify naming
