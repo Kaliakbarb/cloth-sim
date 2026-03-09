@@ -8,3 +8,4 @@
 - adjust config handling
 - simplify naming
 - tighten naming
+- tweak input parsing
