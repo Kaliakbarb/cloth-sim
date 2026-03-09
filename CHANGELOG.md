@@ -7,3 +7,4 @@
 - polish state handling
 - adjust config handling
 - simplify naming
+- tighten naming
