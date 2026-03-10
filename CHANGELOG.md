@@ -11,3 +11,4 @@
 - tweak input parsing
 - improve startup flow
 - fix help text
+- rework config handling
