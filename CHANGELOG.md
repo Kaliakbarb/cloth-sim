@@ -10,3 +10,4 @@
 - tighten naming
 - tweak input parsing
 - improve startup flow
+- fix help text
