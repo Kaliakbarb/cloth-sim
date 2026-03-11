@@ -13,3 +13,4 @@
 - fix help text
 - rework config handling
 - simplify state handling
+- fix startup flow
