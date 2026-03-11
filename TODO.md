@@ -7,3 +7,4 @@
 - [ ] add screenshots to the readme
 - [ ] add tests
 - [ ] performance pass
+- [ ] add a CI workflow
