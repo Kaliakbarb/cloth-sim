@@ -12,3 +12,4 @@
 - improve startup flow
 - fix help text
 - rework config handling
+- simplify state handling
