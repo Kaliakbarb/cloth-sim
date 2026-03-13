@@ -17,3 +17,4 @@
 - refine config handling
 - refine startup flow
 - polish help text
+- clean up validation
