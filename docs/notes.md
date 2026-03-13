@@ -8,3 +8,4 @@
 - tried an alternative layout, kept the simple one
 - sketched v2 of the interface on paper
 - found a nicer color palette, may switch later
+- thought about a plugin system - overkill for now
