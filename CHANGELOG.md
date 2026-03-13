@@ -16,3 +16,4 @@
 - fix startup flow
 - refine config handling
 - refine startup flow
+- polish help text
