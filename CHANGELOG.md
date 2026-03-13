@@ -22,3 +22,4 @@
 - tweak validation
 - refine edge case handling
 - adjust help text
+- fix docs wording
