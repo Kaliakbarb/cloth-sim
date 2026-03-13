@@ -9,3 +9,4 @@
 - [ ] performance pass
 - [ ] add a CI workflow
 - [ ] keyboard shortcuts
+- [ ] dark mode
