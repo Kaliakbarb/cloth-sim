@@ -14,3 +14,4 @@
 - rework config handling
 - simplify state handling
 - fix startup flow
+- refine config handling
