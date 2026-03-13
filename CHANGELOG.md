@@ -19,3 +19,4 @@
 - polish help text
 - clean up validation
 - polish edge case handling
+- tweak validation
