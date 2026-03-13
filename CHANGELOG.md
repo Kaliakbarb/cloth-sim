@@ -15,3 +15,4 @@
 - simplify state handling
 - fix startup flow
 - refine config handling
+- refine startup flow
