@@ -21,3 +21,4 @@
 - polish edge case handling
 - tweak validation
 - refine edge case handling
+- adjust help text
