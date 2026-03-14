@@ -24,3 +24,4 @@
 - adjust help text
 - fix docs wording
 - adjust output formatting
+- tweak help text
