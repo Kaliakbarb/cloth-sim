@@ -25,3 +25,4 @@
 - fix docs wording
 - adjust output formatting
 - tweak help text
+- clean up naming
