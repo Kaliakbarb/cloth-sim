@@ -26,3 +26,4 @@
 - adjust output formatting
 - tweak help text
 - clean up naming
+- rework docs wording
