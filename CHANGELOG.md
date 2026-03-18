@@ -27,3 +27,4 @@
 - tweak help text
 - clean up naming
 - rework docs wording
+- refine state handling
