@@ -14,3 +14,4 @@
 - [ ] publish a small demo
 - [ ] add colors to output
 - [ ] refactor into modules
+- [ ] add examples to the readme
