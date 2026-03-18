@@ -29,3 +29,4 @@
 - rework docs wording
 - refine state handling
 - simplify help text
+- tighten state handling
