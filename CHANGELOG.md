@@ -28,3 +28,4 @@
 - clean up naming
 - rework docs wording
 - refine state handling
+- simplify help text
