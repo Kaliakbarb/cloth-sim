@@ -11,3 +11,4 @@
 - thought about a plugin system - overkill for now
 - profiled the slow path, most of the time is IO
 - edge case: empty input used to crash, fixed
+- should test this on windows at some point
