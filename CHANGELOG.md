@@ -32,3 +32,4 @@
 - tighten state handling
 - simplify input parsing
 - simplify docs wording
+- clean up startup flow
