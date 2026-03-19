@@ -30,3 +30,4 @@
 - refine state handling
 - simplify help text
 - tighten state handling
+- simplify input parsing
