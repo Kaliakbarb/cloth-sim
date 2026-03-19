@@ -33,3 +33,4 @@
 - simplify input parsing
 - simplify docs wording
 - clean up startup flow
+- polish docs wording
