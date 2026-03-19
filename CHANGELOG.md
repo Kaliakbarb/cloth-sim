@@ -35,3 +35,4 @@
 - clean up startup flow
 - polish docs wording
 - tighten error handling
+- fix state handling
