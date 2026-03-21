@@ -18,3 +18,4 @@
 - [ ] better error messages
 - [ ] handle unicode input
 - [ ] package it properly
+- [ ] add screenshots to the readme
