@@ -20,3 +20,4 @@
 - [ ] package it properly
 - [ ] add screenshots to the readme
 - [ ] add tests
+- [ ] performance pass
