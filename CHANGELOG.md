@@ -36,3 +36,4 @@
 - polish docs wording
 - tighten error handling
 - fix state handling
+- fix config handling
