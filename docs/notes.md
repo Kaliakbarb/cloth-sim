@@ -17,3 +17,4 @@
 - renamed things until the code read like a sentence
 - tried an alternative layout, kept the simple one
 - sketched v2 of the interface on paper
+- found a nicer color palette, may switch later
