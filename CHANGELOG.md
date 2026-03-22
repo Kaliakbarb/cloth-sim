@@ -37,3 +37,4 @@
 - tighten error handling
 - fix state handling
 - fix config handling
+- refine naming
