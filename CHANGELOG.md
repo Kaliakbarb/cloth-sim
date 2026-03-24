@@ -38,3 +38,4 @@
 - fix state handling
 - fix config handling
 - refine naming
+- adjust main loop
