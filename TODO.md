@@ -24,3 +24,4 @@
 - [ ] add a CI workflow
 - [ ] keyboard shortcuts
 - [ ] dark mode
+- [ ] support a config file
