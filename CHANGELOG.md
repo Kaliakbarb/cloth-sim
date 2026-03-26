@@ -42,3 +42,4 @@
 - adjust docs wording
 - rework input parsing
 - tighten input parsing
+- fix main loop
