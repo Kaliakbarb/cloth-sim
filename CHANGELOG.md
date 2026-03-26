@@ -46,3 +46,4 @@
 - improve config handling
 - rework output formatting
 - improve main loop
+- tweak edge case handling
