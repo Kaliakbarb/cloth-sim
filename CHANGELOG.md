@@ -44,3 +44,4 @@
 - tighten input parsing
 - fix main loop
 - improve config handling
+- rework output formatting
