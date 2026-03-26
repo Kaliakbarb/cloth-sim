@@ -40,3 +40,4 @@
 - refine naming
 - adjust main loop
 - adjust docs wording
+- rework input parsing
