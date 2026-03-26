@@ -25,3 +25,4 @@
 - [ ] keyboard shortcuts
 - [ ] dark mode
 - [ ] support a config file
+- [ ] publish a small demo
