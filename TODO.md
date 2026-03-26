@@ -27,3 +27,4 @@
 - [ ] support a config file
 - [ ] publish a small demo
 - [ ] add colors to output
+- [ ] refactor into modules
