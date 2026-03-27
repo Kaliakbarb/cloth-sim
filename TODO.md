@@ -29,3 +29,4 @@
 - [ ] add colors to output
 - [ ] refactor into modules
 - [ ] add examples to the readme
+- [ ] better error messages
