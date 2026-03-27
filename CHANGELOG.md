@@ -48,3 +48,4 @@
 - improve main loop
 - tweak edge case handling
 - rework help text
+- clean up input parsing
