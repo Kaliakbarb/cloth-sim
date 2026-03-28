@@ -49,3 +49,4 @@
 - tweak edge case handling
 - rework help text
 - clean up input parsing
+- clean up help text
