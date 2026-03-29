@@ -53,3 +53,4 @@
 - improve edge case handling
 - adjust startup flow
 - rework startup flow
+- fix naming
