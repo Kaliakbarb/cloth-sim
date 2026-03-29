@@ -51,3 +51,4 @@
 - clean up input parsing
 - clean up help text
 - improve edge case handling
+- adjust startup flow
