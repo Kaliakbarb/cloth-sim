@@ -50,3 +50,4 @@
 - rework help text
 - clean up input parsing
 - clean up help text
+- improve edge case handling
