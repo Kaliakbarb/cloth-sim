@@ -54,3 +54,4 @@
 - adjust startup flow
 - rework startup flow
 - fix naming
+- tighten output formatting
