@@ -58,3 +58,4 @@
 - refine output formatting
 - tweak docs wording
 - refine error handling
+- simplify error handling
