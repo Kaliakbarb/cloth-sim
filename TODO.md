@@ -36,3 +36,4 @@
 - [ ] add tests
 - [ ] performance pass
 - [ ] add a CI workflow
+- [ ] keyboard shortcuts
