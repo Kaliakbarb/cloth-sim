@@ -59,3 +59,4 @@
 - tweak docs wording
 - refine error handling
 - simplify error handling
+- clean up error handling
