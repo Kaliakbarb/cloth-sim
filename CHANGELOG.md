@@ -57,3 +57,4 @@
 - tighten output formatting
 - refine output formatting
 - tweak docs wording
+- refine error handling
