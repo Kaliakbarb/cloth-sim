@@ -61,3 +61,4 @@
 - simplify error handling
 - clean up error handling
 - improve input parsing
+- tighten docs wording
